@@ -1,5 +1,5 @@
 # Modelo de SVM de Classificação Churn
-Analise de classificação da possíbilidade de um cliente se tornar churn (taxa de cancelamento de clientes ou à perda de clientes ao longo do tempo)
+Modelo de classificação da possibilidade de um cliente se tornar churn (taxa de cancelamento de clientes ou à perda de clientes ao longo do tempo)
 
 
   ##
